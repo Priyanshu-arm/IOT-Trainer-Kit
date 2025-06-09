@@ -1,0 +1,13 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "C:/Users/priya/OneDrive/Desktop/IOT kit/Library.pretty")(options "")(descr ""))
+  (lib (name "spi display")(type "KiCad")(uri "C:/Users/priya/OneDrive/Desktop/IOT kit/spi display.pretty")(options "")(descr ""))
+  (lib (name "display library")(type "KiCad")(uri "C:/Users/priya/OneDrive/Desktop/IOT kit/display library.pretty")(options "")(descr ""))
+  (lib (name "GND.preety")(type "KiCad")(uri "C:/Users/priya/OneDrive/Desktop/GND.preety")(options "")(descr ""))
+  (lib (name "gr.preety")(type "KiCad")(uri "E:/gr.preety")(options "")(descr ""))
+  (lib (name "WS2812B")(type "KiCad")(uri "C:/Program Files/KiCad/8.0/downloaded library/WS2812B")(options "")(descr ""))
+  (lib (name "DISPLAYTOUCH")(type "KiCad")(uri "${KIPRJMOD}/DISPLAYTOUCH.pretty")(options "")(descr ""))
+  (lib (name "OTA.preety")(type "KiCad")(uri "C:/Users/priya/OneDrive/Desktop/OTA.preety")(options "")(descr ""))
+  (lib (name "OT.preety")(type "KiCad")(uri "C:/Users/priya/OneDrive/Desktop/OTA.preety")(options "")(descr ""))
+  (lib (name "LOGO")(type "KiCad")(uri "C:/Users/priya/OneDrive/Desktop/LOGO")(options "")(descr ""))
+)

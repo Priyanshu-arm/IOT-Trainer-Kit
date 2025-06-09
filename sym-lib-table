@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PR13-5V-450-1C (1)")(type "EasyEDA (JLCEDA) Pro")(uri "C:/Users/priya/OneDrive/Desktop/PR13-5V-450-1C (1).zip")(options " pwr_sym_only")(descr ""))
+  (lib (name "WS2812B")(type "KiCad")(uri "C:/Users/priya/OneDrive/Desktop/WS2812B.kicad_sym")(options "")(descr ""))
+)
